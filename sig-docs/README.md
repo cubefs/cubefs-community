@@ -5,7 +5,7 @@ Documentation is the key to the success of an open source project. There will be
 
 ## Specification 
 ### Basic format 
-reference: https://github.com/cubefs/cubefs-community/blob/master/sig-docs/doc-style-cn.md 
+reference: https://github.com/cubefs/cubefs-community/blob/master/sig-docs/doc-style-en.md 
 
 ### Basic process 
 1. Written by relevant personnel First draft. 
