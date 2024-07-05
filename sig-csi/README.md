@@ -1,33 +1,31 @@
-# CubeFS CSI Special Interest Group
+# SIG CSI
 
-## Background 
-k8s and CSI protocols are constantly evolving. The community's CSI still has some potential problems and many areas that need improvement, so there needs to be an organization to improve CSI-related issues and bring the community's k8s support to a higher level. 
+The k8s and CSI protocols are constantly evolving. There are still some potential problems and many areas for improvement in the community's CSI. SIG CSI is responsible for improving these related issues and bringing the community's k8s support to a higher level.
 
-## Improvements 
-- Build related documents 
-- Development related documents 
-- Arm64 support 
-- Functional evolution 
-- Common problems sorting 
-- Better use of reference documents 
+The [charter](charter.md) defines the scope and governance of the Docs Special Interest Group.
 
-## SIG Operations 
-SIG has a manager role, and one member rotates every month. The manager needs to complete the following responsibilities: 
-- Host regular meetings every two weeks. 
-- Organize meeting minutes and record meeting videos. 
-- Assign tasks and track the progress of related tasks. 
-- Quarterly roadmap updates. 
+## Meetings
 
-At present, WeChat groups are used for timely communication, and task assignments are managed through github projects. 
+- Regular SIG Meeting: Thursday of the third week of every month at 19:30-20:00 Beijing Time.
+- [Meeting notes and Agenda](#).
 
-## Incentives 
-Since the document work is relatively complicated, there will be relevant incentives (JD cards, community gifts) given to students who contribute more. The specific details are being arranged. 
+## Contact
 
-## Why participate in SIG 
-- Incentives in kind, gifts are endless. 
-- Participate in community contribution, meet various technical experts, and communicate with them at zero distance. 
-- Improve yourself and have a deeper understanding of k8s and CubeFS. 
+- [Slack](https://cubefs.slack.com/)
+- [Open Community Issues](https://github.com/cubefs/cubefs-community/issues)
+- wechat, Please add **cubefs** account
 
-## How to participate in SIG 
+## Leadership
 
-Students who want to participate in CSI SIG, please add WeChat **heymingwei** first, and indicate the purpose of your visit: CubeFS CSI SIG.
+### Chairs
+
+The Chairs of the SIG run operations and processes governing the SIG.
+
+TBD
+
+### Technical Leads
+
+The Technical Leads of the SIG resolve technical issues and decisions.
+
+TBD
+
