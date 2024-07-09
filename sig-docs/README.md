@@ -21,11 +21,5 @@ The [charter](charter.md) defines the scope and governance of the Docs Special I
 
 The Chairs of the SIG run operations and processes governing the SIG.
 
-TBD
-
-### Technical Leads
-
-The Technical Leads of the SIG resolve technical issues and decisions.
-
-TBD
+Xiaochun He  626148589@qq.com   OPPO
 

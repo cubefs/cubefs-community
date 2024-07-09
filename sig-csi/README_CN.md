@@ -22,11 +22,12 @@ k8s 和 CSI 协议在不断的演进，社区的 CSI 还有一些潜在的问题
 
 SIG 的主席负责管理 SIG 的运营和流程。
 
-TBD
+常亮 chl696@sina.com OPPO
+郭卫龙 guowl18702995996@gmail.com JD.com
 
 ### 技术负责人
 
 SIG 的技术主管负责解决技术问题和决策。
 
-TBD
+龚名威  gongwilliam@163.com  OPPO
 

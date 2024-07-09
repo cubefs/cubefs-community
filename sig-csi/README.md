@@ -21,11 +21,12 @@ The [charter](charter.md) defines the scope and governance of the Docs Special I
 
 The Chairs of the SIG run operations and processes governing the SIG.
 
-TBD
+leonrayang  chl696@sina.com OPPO
+awzhgw guowl18702995996@gmail.com JD.com
 
 ### Technical Leads
 
 The Technical Leads of the SIG resolve technical issues and decisions.
 
-TBD
+heymingwei gongwilliam@163.com OPPO
 
