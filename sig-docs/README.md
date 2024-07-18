@@ -21,5 +21,5 @@ The [charter](charter.md) defines the scope and governance of the Docs Special I
 
 The Chairs of the SIG run operations and processes governing the SIG.
 
-Xiaochun He  626148589@qq.com   OPPO
+- Xiaochun He  626148589@qq.com   OPPO
 
